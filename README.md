@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+#### - linkedin Profile : https://www.linkedin.com/in/sohyeon-yang-579082247/
 <!--
 **journeythrunrun/journeythrunrun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

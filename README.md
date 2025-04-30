@@ -6,7 +6,7 @@
 
 🛠️ **Note about this GitHub**  
 This GitHub is primarily used as one of my personal coding notebooks.  
-Some repositories include brief comments or lightweight documentation for my own reference.  
+Some repositories include comments or lightweight documentation for my own reference.  
 If you'd like more context about any repository or content, feel free to reach out.
 
 

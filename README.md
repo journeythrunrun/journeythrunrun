@@ -1,6 +1,6 @@
 ### Hi there 👋
 #### - 🌐 linkedin Profile : https://www.linkedin.com/in/sohyeon-yang-579082247/
-#### - 📫 Contact : sivow40morningxer@naver.com
+#### - 📫 Contact : sivow40morningexer@naver.com
 
 ---
 

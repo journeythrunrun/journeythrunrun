@@ -1,7 +1,7 @@
 ### Hi there 👋
 #### - 🌐 linkedin Profile : https://www.linkedin.com/in/sohyeon-yang-579082247/
-#### - 📫 Contact : sivow40morningexer@naver.com
-
+#### - 📫 Contact : ⚠️ sivow40morningexer@naver.com
+  > *Please note: The email address has been updated. If you contacted me using a previous version, kindly verify you're using the current one.*
 ---
 
 🛠️ **Note about this GitHub**  
